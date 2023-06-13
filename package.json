@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "validator": "^10.8.0"
+  },
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhamad1375/notes-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhamad1375/notes-app/issues"
+  },
+  "homepage": "https://github.com/Muhamad1375/notes-app#readme",
+  "description": ""
+}
