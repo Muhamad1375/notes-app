@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "chalk": "^2.4.1",
     "validator": "^10.8.0"
   },
   "name": "notes-app",
